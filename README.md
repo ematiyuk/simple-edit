@@ -13,7 +13,7 @@ java -jar "simple-edit.jar"
 #### How to distribute
 
 To distribute this project, zip up the dist folder (including the lib folder)
-and distribute the ZIP file.
+and distribute the ZIP file, or simply download the latest [release](https://github.com/ematiyuk/simple-edit/releases).
 
 ##### Misc
 
